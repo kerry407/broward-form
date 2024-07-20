@@ -1,11 +1,12 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f4f4f9;
+    background: url('https://www.broward.edu/test/_images/img-default.webp') no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 3rem;
+    background-size: contain;
 }
 
 .logo-container {
